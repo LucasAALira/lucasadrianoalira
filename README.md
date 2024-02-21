@@ -16,7 +16,7 @@ With hands-on experience spanning 4 years in the field, I have honed my skills i
 - Incident Response
 
 #### 📚 Education:
-- Bachelor's Degree in Information Security Technology, Nove de Julho University
+- Bachelor's Degree in Information Security Technology, Nove de Julho University (São Paulo - Brazil)
 
 #### 🌐 Languages:
 Fluent in English and Portuguese.
