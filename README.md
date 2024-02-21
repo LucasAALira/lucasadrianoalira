@@ -17,3 +17,9 @@ With hands-on experience spanning 4 years in the field, I have honed my skills i
 
 #### 📚 Education:
 - Bachelor's Degree in Information Security Technology, Nove de Julho University
+
+#### 🌐 Languages:
+Fluent in English and Portuguese.
+
+#### 🤝 Let's Connect:
+I am always eager to collaborate and share insights with like-minded professionals in the cybersecurity community. Let's connect and strengthen our collective defenses against evolving cyber threats.
